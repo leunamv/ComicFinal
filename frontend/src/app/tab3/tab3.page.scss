@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+}
+.uno-background-color{
+    --background: #c6c935;
+}
+.dos-background-color{
+    --background: #d6881c;
+}
+.tres-background-color{
+    --background: #1c63d6;
+}
+.cuatro-background-color{
+    --background: #d521ba;
+}
+.cinco-background-color{
+    --background: #a8406b;
+}
+ion-item{
+border-radius: 15px;
+border-bottom: 2 px;
+border-top: 2px;
+}
+hr{
+    height: 2px;
+color:black;
+
+}

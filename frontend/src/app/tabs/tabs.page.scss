@@ -1,0 +1,36 @@
+h1 {
+//   text-align: center;
+//   font-size: 200%;
+  font-weight: bold;
+ letter-spacing: 10px;
+  text-align: center;
+  color: blue;
+  //text-shadow: gray -6px 0;
+//   text-transform: uppercase;
+ }
+
+ .uno-background-color{
+  --background: #ee86ae;
+}
+.dos-background-color{
+  --background: #d6881c;
+}
+.tres-background-color{
+  --background: #63eb51;
+}
+.cuatro-background-color{
+  --background: #d521ba;
+}
+.cinco-background-color{
+  --background: #a8406b;
+}
+ion-tab-bar{
+  border-radius: 15px;
+  border-bottom: 2 px;
+  border-top: 2px;
+}
+ion-header{
+  border-radius: 15px;
+  border-bottom: 2 px;
+  border-top: 2px;
+}
