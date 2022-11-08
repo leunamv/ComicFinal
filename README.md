@@ -27,7 +27,7 @@ Begining 🚀
 
 
 Starting 🚀
-_You can get a copy of the project at: https://github.com/leunamv/Comics1.git You can make a clone from GIT to download my complete project All heavy files of the project have been omitted with the .gitignore, as well as libraries
+_You can get a copy of the project at: https://github.com/leunamv/ComicFinal.git You can make a clone from GIT to download my complete project All heavy files of the project have been omitted with the .gitignore, as well as libraries
 
 See Deployment to learn how to deploy the project.
 ls
